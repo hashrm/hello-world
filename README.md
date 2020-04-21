@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+It's Hashrm here! I'm made of coffee and dosas
